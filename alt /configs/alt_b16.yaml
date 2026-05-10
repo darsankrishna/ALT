@@ -3,13 +3,22 @@ clip_model: "openai/clip-vit-base-patch16"
 corpus_path: "/kaggle/working/alt/corpus/corpus_embeddings.pt"
 label_file:  "/kaggle/working/alt/corpus/all_labels_ordered.json"
 num_classes: 152
+# Corpus build (optional)
+corpus_build_if_missing: true
+corpus_rebuild: true
+corpus_use_lesk: false
+corpus_use_t5_filter: true
+corpus_t5_model: "t5-small"
 
 # Encoder
 freeze_backbone: true        # adapter-only training; saves ~40% VRAM and speeds up epochs
+tome_r: 8
+tome_layers: null            # null = apply merging on all ViT blocks
 
 # Adapter
 adapter_blocks: 4
 n_heads: 8
+use_temporal_pe: false
 
 # Training
 epochs: 50
@@ -17,6 +26,13 @@ warmup_epochs: 5
 backbone_lr: 8.0e-6
 adapter_lr:  8.0e-5
 weight_decay: 1.0e-3
+seed: 42
+early_stopping_patience: 0   # 0 = disabled
+log_interval: 50
+
+# Alignment
+tau: 1.0
+alignment_topk: null         # null = full softmax; int = top-k entities per region
 
 # Batch (T4 @ fp16, frozen backbone)
 batch_size: 16

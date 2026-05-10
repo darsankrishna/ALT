@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-05-10T08:26:56Z",
+  "label_file": "/Users/darsankrishna/Documents/Sem2/DL/term paper/ALT_tome/alt /corpus/all_labels_ordered.json",
+  "use_lesk": false,
+  "use_t5_filter": true,
+  "t5_model_name": "t5-small"
+}
