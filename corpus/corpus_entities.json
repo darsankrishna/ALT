@@ -1,0 +1,752 @@
+[
+  {
+    "label": "applyeyemakeup",
+    "entity": "applyeyemakeup",
+    "context": "applyeyemakeup"
+  },
+  {
+    "label": "applylipstick",
+    "entity": "applylipstick",
+    "context": "applylipstick"
+  },
+  {
+    "label": "archery",
+    "entity": "archery",
+    "context": "archery: the sport of shooting arrows with a bow"
+  },
+  {
+    "label": "babycrawling",
+    "entity": "babycrawling",
+    "context": "babycrawling"
+  },
+  {
+    "label": "balancebeam",
+    "entity": "balancebeam",
+    "context": "balancebeam"
+  },
+  {
+    "label": "bandmarching",
+    "entity": "bandmarching",
+    "context": "bandmarching"
+  },
+  {
+    "label": "baseballpitch",
+    "entity": "baseballpitch",
+    "context": "baseballpitch"
+  },
+  {
+    "label": "basketball",
+    "entity": "basketball",
+    "context": "basketball: a game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop"
+  },
+  {
+    "label": "basketballdunk",
+    "entity": "basketballdunk",
+    "context": "basketballdunk"
+  },
+  {
+    "label": "benchpress",
+    "entity": "benchpress",
+    "context": "benchpress"
+  },
+  {
+    "label": "biking",
+    "entity": "biking",
+    "context": "biking: ride a bicycle"
+  },
+  {
+    "label": "billiards",
+    "entity": "billiards",
+    "context": "billiards: any of several games played on rectangular cloth-covered table (with cushioned edges) in which long tapering cue sticks are used to propel ivory (or composition) balls"
+  },
+  {
+    "label": "blowdryhair",
+    "entity": "blowdryhair",
+    "context": "blowdryhair"
+  },
+  {
+    "label": "blowingcandles",
+    "entity": "blowingcandles",
+    "context": "blowingcandles"
+  },
+  {
+    "label": "bodyweightsquats",
+    "entity": "bodyweightsquats",
+    "context": "bodyweightsquats"
+  },
+  {
+    "label": "bowling",
+    "entity": "bowling",
+    "context": "bowling: a game in which balls are rolled at an object or group of objects with the aim of knocking them over or moving them"
+  },
+  {
+    "label": "boxingpunchingbag",
+    "entity": "boxingpunchingbag",
+    "context": "boxingpunchingbag"
+  },
+  {
+    "label": "boxingspeedbag",
+    "entity": "boxingspeedbag",
+    "context": "boxingspeedbag"
+  },
+  {
+    "label": "breaststroke",
+    "entity": "breaststroke",
+    "context": "breaststroke: a swimming stroke; the arms are extended together in front of the head and swept back on either side accompanied by a frog kick"
+  },
+  {
+    "label": "brushingteeth",
+    "entity": "brushingteeth",
+    "context": "brushingteeth"
+  },
+  {
+    "label": "cleanandjerk",
+    "entity": "cleanandjerk",
+    "context": "cleanandjerk"
+  },
+  {
+    "label": "cliffdiving",
+    "entity": "cliffdiving",
+    "context": "cliffdiving"
+  },
+  {
+    "label": "cricketbowling",
+    "entity": "cricketbowling",
+    "context": "cricketbowling"
+  },
+  {
+    "label": "cricketshot",
+    "entity": "cricketshot",
+    "context": "cricketshot"
+  },
+  {
+    "label": "cuttinginkitchen",
+    "entity": "cuttinginkitchen",
+    "context": "cuttinginkitchen"
+  },
+  {
+    "label": "diving",
+    "entity": "diving",
+    "context": "diving: an athletic competition that involves diving into water"
+  },
+  {
+    "label": "drumming",
+    "entity": "drumming",
+    "context": "drumming: the act of playing drums"
+  },
+  {
+    "label": "fencing",
+    "entity": "fencing",
+    "context": "fencing: a barrier that serves to enclose an area"
+  },
+  {
+    "label": "fieldhockeypenalty",
+    "entity": "fieldhockeypenalty",
+    "context": "fieldhockeypenalty"
+  },
+  {
+    "label": "floorgymnastics",
+    "entity": "floorgymnastics",
+    "context": "floorgymnastics"
+  },
+  {
+    "label": "frisbeecatch",
+    "entity": "frisbeecatch",
+    "context": "frisbeecatch"
+  },
+  {
+    "label": "frontcrawl",
+    "entity": "frontcrawl",
+    "context": "frontcrawl"
+  },
+  {
+    "label": "golfswing",
+    "entity": "golfswing",
+    "context": "golfswing"
+  },
+  {
+    "label": "haircut",
+    "entity": "haircut",
+    "context": "haircut: the style in which hair has been cut"
+  },
+  {
+    "label": "hammering",
+    "entity": "hammering",
+    "context": "hammering: the act of pounding (delivering repeated heavy blows)"
+  },
+  {
+    "label": "hammerthrow",
+    "entity": "hammerthrow",
+    "context": "hammerthrow"
+  },
+  {
+    "label": "handstandpushups",
+    "entity": "handstandpushups",
+    "context": "handstandpushups"
+  },
+  {
+    "label": "handstandwalking",
+    "entity": "handstandwalking",
+    "context": "handstandwalking"
+  },
+  {
+    "label": "headmassage",
+    "entity": "headmassage",
+    "context": "headmassage"
+  },
+  {
+    "label": "highjump",
+    "entity": "highjump",
+    "context": "highjump"
+  },
+  {
+    "label": "horserace",
+    "entity": "horserace",
+    "context": "horserace"
+  },
+  {
+    "label": "horseriding",
+    "entity": "horseriding",
+    "context": "horseriding"
+  },
+  {
+    "label": "hulahoop",
+    "entity": "hulahoop",
+    "context": "hulahoop"
+  },
+  {
+    "label": "icedancing",
+    "entity": "icedancing",
+    "context": "icedancing"
+  },
+  {
+    "label": "javelinthrow",
+    "entity": "javelinthrow",
+    "context": "javelinthrow"
+  },
+  {
+    "label": "jugglingballs",
+    "entity": "jugglingballs",
+    "context": "jugglingballs"
+  },
+  {
+    "label": "jumpingjack",
+    "entity": "jumpingjack",
+    "context": "jumpingjack"
+  },
+  {
+    "label": "jumprope",
+    "entity": "jumprope",
+    "context": "jumprope"
+  },
+  {
+    "label": "kayaking",
+    "entity": "kayaking",
+    "context": "kayaking: travel in a small canoe"
+  },
+  {
+    "label": "knitting",
+    "entity": "knitting",
+    "context": "knitting: needlework created by interlacing yarn in a series of connected loops using straight eyeless needles or by machine"
+  },
+  {
+    "label": "longjump",
+    "entity": "longjump",
+    "context": "longjump"
+  },
+  {
+    "label": "lunges",
+    "entity": "lunges",
+    "context": "lunges: the act of moving forward suddenly"
+  },
+  {
+    "label": "militaryparade",
+    "entity": "militaryparade",
+    "context": "militaryparade"
+  },
+  {
+    "label": "mixing",
+    "entity": "mixing",
+    "context": "mixing: the act of mixing together"
+  },
+  {
+    "label": "moppingfloor",
+    "entity": "moppingfloor",
+    "context": "moppingfloor"
+  },
+  {
+    "label": "nunchucks",
+    "entity": "nunchucks",
+    "context": "nunchucks"
+  },
+  {
+    "label": "parallelbars",
+    "entity": "parallelbars",
+    "context": "parallelbars"
+  },
+  {
+    "label": "pizzatossing",
+    "entity": "pizzatossing",
+    "context": "pizzatossing"
+  },
+  {
+    "label": "playingcello",
+    "entity": "playingcello",
+    "context": "playingcello"
+  },
+  {
+    "label": "playingdaf",
+    "entity": "playingdaf",
+    "context": "playingdaf"
+  },
+  {
+    "label": "playingdhol",
+    "entity": "playingdhol",
+    "context": "playingdhol"
+  },
+  {
+    "label": "playingflute",
+    "entity": "playingflute",
+    "context": "playingflute"
+  },
+  {
+    "label": "playingguitar",
+    "entity": "playingguitar",
+    "context": "playingguitar"
+  },
+  {
+    "label": "playingpiano",
+    "entity": "playingpiano",
+    "context": "playingpiano"
+  },
+  {
+    "label": "playingsitar",
+    "entity": "playingsitar",
+    "context": "playingsitar"
+  },
+  {
+    "label": "playingtabla",
+    "entity": "playingtabla",
+    "context": "playingtabla"
+  },
+  {
+    "label": "playingviolin",
+    "entity": "playingviolin",
+    "context": "playingviolin"
+  },
+  {
+    "label": "polevault",
+    "entity": "polevault",
+    "context": "polevault"
+  },
+  {
+    "label": "pommelhorse",
+    "entity": "pommelhorse",
+    "context": "pommelhorse"
+  },
+  {
+    "label": "pullups",
+    "entity": "pullups",
+    "context": "pullups"
+  },
+  {
+    "label": "punch",
+    "entity": "punch",
+    "context": "punch: (boxing) a blow with the fist"
+  },
+  {
+    "label": "pushups",
+    "entity": "pushups",
+    "context": "pushups: an arm exercise performed lying face to the floor and pushing the body up and down with the arms"
+  },
+  {
+    "label": "rafting",
+    "entity": "rafting",
+    "context": "rafting: transport on a raft"
+  },
+  {
+    "label": "rockclimbingindoor",
+    "entity": "rockclimbingindoor",
+    "context": "rockclimbingindoor"
+  },
+  {
+    "label": "ropeclimbing",
+    "entity": "ropeclimbing",
+    "context": "ropeclimbing"
+  },
+  {
+    "label": "rowing",
+    "entity": "rowing",
+    "context": "rowing: the act of rowing as a sport"
+  },
+  {
+    "label": "salsaspin",
+    "entity": "salsaspin",
+    "context": "salsaspin"
+  },
+  {
+    "label": "shavingbeard",
+    "entity": "shavingbeard",
+    "context": "shavingbeard"
+  },
+  {
+    "label": "shotput",
+    "entity": "shotput",
+    "context": "shotput"
+  },
+  {
+    "label": "skateboarding",
+    "entity": "skateboarding",
+    "context": "skateboarding: the sport of skating on a skateboard"
+  },
+  {
+    "label": "skiing",
+    "entity": "skiing",
+    "context": "skiing: a sport in which participants must travel on skis"
+  },
+  {
+    "label": "skijet",
+    "entity": "skijet",
+    "context": "skijet"
+  },
+  {
+    "label": "skydiving",
+    "entity": "skydiving",
+    "context": "skydiving: performing acrobatics in free fall before pulling the ripcord of a parachute"
+  },
+  {
+    "label": "soccerjuggling",
+    "entity": "soccerjuggling",
+    "context": "soccerjuggling"
+  },
+  {
+    "label": "soccerpenalty",
+    "entity": "soccerpenalty",
+    "context": "soccerpenalty"
+  },
+  {
+    "label": "stillrings",
+    "entity": "stillrings",
+    "context": "stillrings"
+  },
+  {
+    "label": "sumowrestling",
+    "entity": "sumowrestling",
+    "context": "sumowrestling"
+  },
+  {
+    "label": "surfing",
+    "entity": "surfing",
+    "context": "surfing: the sport of riding a surfboard toward the shore on the crest of a wave"
+  },
+  {
+    "label": "swing",
+    "entity": "swing",
+    "context": "swing: a state of steady vigorous action that is characteristic of an activity"
+  },
+  {
+    "label": "tabletennisshot",
+    "entity": "tabletennisshot",
+    "context": "tabletennisshot"
+  },
+  {
+    "label": "taichi",
+    "entity": "taichi",
+    "context": "taichi: a Chinese system of slow meditative physical exercise designed for relaxation and balance and health"
+  },
+  {
+    "label": "tennisswing",
+    "entity": "tennisswing",
+    "context": "tennisswing"
+  },
+  {
+    "label": "throwdiscus",
+    "entity": "throwdiscus",
+    "context": "throwdiscus"
+  },
+  {
+    "label": "trampolinejumping",
+    "entity": "trampolinejumping",
+    "context": "trampolinejumping"
+  },
+  {
+    "label": "typing",
+    "entity": "typing",
+    "context": "typing: writing done with a typewriter"
+  },
+  {
+    "label": "unevenbars",
+    "entity": "unevenbars",
+    "context": "unevenbars"
+  },
+  {
+    "label": "volleyballspiking",
+    "entity": "volleyballspiking",
+    "context": "volleyballspiking"
+  },
+  {
+    "label": "walkingwithdog",
+    "entity": "walkingwithdog",
+    "context": "walkingwithdog"
+  },
+  {
+    "label": "wallpushups",
+    "entity": "wallpushups",
+    "context": "wallpushups"
+  },
+  {
+    "label": "writingonboard",
+    "entity": "writingonboard",
+    "context": "writingonboard"
+  },
+  {
+    "label": "yoyo",
+    "entity": "yoyo",
+    "context": "yoyo"
+  },
+  {
+    "label": "brush hair",
+    "entity": "hair",
+    "context": "hair: a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss"
+  },
+  {
+    "label": "cartwheel",
+    "entity": "cartwheel",
+    "context": "cartwheel: a wheel that has wooden spokes and a metal rim"
+  },
+  {
+    "label": "catch",
+    "entity": "catch",
+    "context": "catch: a drawback or difficulty that is not readily evident"
+  },
+  {
+    "label": "chew",
+    "entity": "chew",
+    "context": "chew: a wad of something chewable as tobacco"
+  },
+  {
+    "label": "clap",
+    "entity": "clap",
+    "context": "clap: a sudden very loud noise"
+  },
+  {
+    "label": "climb stairs",
+    "entity": "stairs",
+    "context": "stairs: a flight of stairs or a flight of steps"
+  },
+  {
+    "label": "climb",
+    "entity": "climb",
+    "context": "climb: an upward slope or grade (as in a road)"
+  },
+  {
+    "label": "dive",
+    "entity": "dive",
+    "context": "dive: a cheap disreputable nightclub or dance hall"
+  },
+  {
+    "label": "draw sword",
+    "entity": "sword",
+    "context": "sword: a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard"
+  },
+  {
+    "label": "dribble",
+    "entity": "dribble",
+    "context": "dribble: flowing in drops; the formation and falling of drops of liquid"
+  },
+  {
+    "label": "drink",
+    "entity": "drink",
+    "context": "drink: a single serving of a beverage"
+  },
+  {
+    "label": "eat",
+    "entity": "eat",
+    "context": "eat: take in solid food"
+  },
+  {
+    "label": "fall floor",
+    "entity": "floor",
+    "context": "floor: the inside lower horizontal surface (as of a room, hallway, tent, or other structure)"
+  },
+  {
+    "label": "flic flac",
+    "entity": "flac",
+    "context": "flac"
+  },
+  {
+    "label": "golf",
+    "entity": "golf",
+    "context": "golf: a game played on a large open course with 9 or 18 holes; the object is use as few strokes as possible in playing all the holes"
+  },
+  {
+    "label": "handstand",
+    "entity": "handstand",
+    "context": "handstand: the act of supporting yourself by your hands alone in an upside down position"
+  },
+  {
+    "label": "hit",
+    "entity": "hit",
+    "context": "hit: (baseball) a successful stroke in an athletic contest (especially in baseball)"
+  },
+  {
+    "label": "hug",
+    "entity": "hug",
+    "context": "hug: a tight or amorous embrace"
+  },
+  {
+    "label": "jump",
+    "entity": "jump",
+    "context": "jump: a sudden and decisive increase"
+  },
+  {
+    "label": "kick ball",
+    "entity": "ball",
+    "context": "ball: round object that is hit or thrown or kicked in games"
+  },
+  {
+    "label": "kick",
+    "entity": "kick",
+    "context": "kick: the act of delivering a blow with the foot"
+  },
+  {
+    "label": "kiss",
+    "entity": "kiss",
+    "context": "kiss: the act of caressing with the lips (or an instance thereof)"
+  },
+  {
+    "label": "laugh",
+    "entity": "laugh",
+    "context": "laugh: the sound of laughing"
+  },
+  {
+    "label": "pick",
+    "entity": "pick",
+    "context": "pick: the person or thing chosen or selected"
+  },
+  {
+    "label": "pour",
+    "entity": "pour",
+    "context": "pour: cause to run"
+  },
+  {
+    "label": "pullup",
+    "entity": "pullup",
+    "context": "pullup"
+  },
+  {
+    "label": "push",
+    "entity": "push",
+    "context": "push: the act of applying force in order to move something away"
+  },
+  {
+    "label": "pushup",
+    "entity": "pushup",
+    "context": "pushup: an arm exercise performed lying face to the floor and pushing the body up and down with the arms"
+  },
+  {
+    "label": "ride bike",
+    "entity": "bike",
+    "context": "bike: a motor vehicle with two wheels and a strong frame"
+  },
+  {
+    "label": "ride horse",
+    "entity": "horse",
+    "context": "horse: solid-hoofed herbivorous quadruped domesticated since prehistoric times"
+  },
+  {
+    "label": "run",
+    "entity": "run",
+    "context": "run: a score in baseball made by a runner touching all four bases safely"
+  },
+  {
+    "label": "shake hands",
+    "entity": "hands",
+    "context": "hands: (with `in') guardianship over; in divorce cases it is the right to house and care for and discipline a child"
+  },
+  {
+    "label": "shoot ball",
+    "entity": "ball",
+    "context": "ball: round object that is hit or thrown or kicked in games"
+  },
+  {
+    "label": "shoot bow",
+    "entity": "bow",
+    "context": "bow: a knot with two loops and loose ends; used to tie shoelaces"
+  },
+  {
+    "label": "shoot gun",
+    "entity": "gun",
+    "context": "gun: a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)"
+  },
+  {
+    "label": "sit",
+    "entity": "sit",
+    "context": "sit: be seated"
+  },
+  {
+    "label": "situp",
+    "entity": "situp",
+    "context": "situp"
+  },
+  {
+    "label": "smile",
+    "entity": "smile",
+    "context": "smile: a facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement"
+  },
+  {
+    "label": "smoke",
+    "entity": "smoke",
+    "context": "smoke: a cloud of fine particles suspended in a gas"
+  },
+  {
+    "label": "somersault",
+    "entity": "somersault",
+    "context": "somersault: an acrobatic feat in which the feet roll over the head (either forward or backward) and return"
+  },
+  {
+    "label": "stand",
+    "entity": "stand",
+    "context": "stand: a support or foundation"
+  },
+  {
+    "label": "swing baseball",
+    "entity": "baseball",
+    "context": "baseball: a ball game played with a bat and ball between two teams of nine players; teams take turns at bat trying to score runs"
+  },
+  {
+    "label": "sword exercise",
+    "entity": "exercise",
+    "context": "exercise: the activity of exerting your muscles in various ways to keep fit"
+  },
+  {
+    "label": "sword",
+    "entity": "sword",
+    "context": "sword: a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard"
+  },
+  {
+    "label": "talk",
+    "entity": "talk",
+    "context": "talk: an exchange of ideas via conversation"
+  },
+  {
+    "label": "throw",
+    "entity": "throw",
+    "context": "throw: the act of throwing (propelling something with a rapid movement of the arm and wrist)"
+  },
+  {
+    "label": "turn",
+    "entity": "turn",
+    "context": "turn: a circular segment of a curve"
+  },
+  {
+    "label": "walk",
+    "entity": "walk",
+    "context": "walk: the act of traveling by foot"
+  },
+  {
+    "label": "wave",
+    "entity": "wave",
+    "context": "wave: one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)"
+  }
+]

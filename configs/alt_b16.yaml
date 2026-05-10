@@ -1,0 +1,35 @@
+# configs/alt_b16.yaml
+clip_model: "openai/clip-vit-base-patch16"
+corpus_path: "/kaggle/working/alt/corpus/corpus_embeddings.pt"
+label_file:  "/kaggle/working/alt/corpus/all_labels_ordered.json"
+num_classes: 152
+
+# Encoder
+freeze_backbone: true        # adapter-only training; saves ~40% VRAM and speeds up epochs
+
+# Adapter
+adapter_blocks: 4
+n_heads: 8
+
+# Training
+epochs: 50
+warmup_epochs: 5
+backbone_lr: 8.0e-6
+adapter_lr:  8.0e-5
+weight_decay: 1.0e-3
+
+# Batch (T4 @ fp16, frozen backbone)
+batch_size: 16
+grad_accum_steps: 2          # effective batch = 32
+num_workers: 2
+
+# Video input
+num_frames: 8
+frame_size: 224
+
+# Paths (filled in at Kaggle runtime — see notebook setup)
+data_roots:
+  ucf:  "PLACEHOLDER_UCF"
+  hmdb: "PLACEHOLDER_HMDB"
+train_json: "/kaggle/working/alt/corpus/train_labels.json"
+val_json:   "/kaggle/working/alt/corpus/val_labels.json"
