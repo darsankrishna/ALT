@@ -1,0 +1,3290 @@
+[
+  {
+    "label": "applyeyemakeup",
+    "entity": "makeup",
+    "context": "makeup",
+    "source": "label"
+  },
+  {
+    "label": "applylipstick",
+    "entity": "lipstick",
+    "context": "lipstick",
+    "source": "label"
+  },
+  {
+    "label": "archery",
+    "entity": "archery",
+    "context": "archery",
+    "source": "label"
+  },
+  {
+    "label": "babycrawling",
+    "entity": "baby",
+    "context": "baby",
+    "source": "label"
+  },
+  {
+    "label": "balancebeam",
+    "entity": "beam",
+    "context": "beam",
+    "source": "label"
+  },
+  {
+    "label": "bandmarching",
+    "entity": "marching",
+    "context": "marching",
+    "source": "label"
+  },
+  {
+    "label": "baseballpitch",
+    "entity": "pitch",
+    "context": "pitch",
+    "source": "label"
+  },
+  {
+    "label": "basketball",
+    "entity": "basketball",
+    "context": "basketball",
+    "source": "label"
+  },
+  {
+    "label": "basketballdunk",
+    "entity": "dunk",
+    "context": "dunk",
+    "source": "label"
+  },
+  {
+    "label": "benchpress",
+    "entity": "press",
+    "context": "press",
+    "source": "label"
+  },
+  {
+    "label": "biking",
+    "entity": "biking",
+    "context": "biking",
+    "source": "label"
+  },
+  {
+    "label": "billiards",
+    "entity": "billiards",
+    "context": "billiards",
+    "source": "label"
+  },
+  {
+    "label": "blowdryhair",
+    "entity": "hair",
+    "context": "hair",
+    "source": "label"
+  },
+  {
+    "label": "blowingcandles",
+    "entity": "candles",
+    "context": "candles",
+    "source": "label"
+  },
+  {
+    "label": "bodyweightsquats",
+    "entity": "squats",
+    "context": "squats",
+    "source": "label"
+  },
+  {
+    "label": "bowling",
+    "entity": "bowling",
+    "context": "bowling",
+    "source": "label"
+  },
+  {
+    "label": "boxingpunchingbag",
+    "entity": "bag",
+    "context": "bag",
+    "source": "label"
+  },
+  {
+    "label": "breaststroke",
+    "entity": "breaststroke",
+    "context": "breaststroke",
+    "source": "label"
+  },
+  {
+    "label": "brushingteeth",
+    "entity": "teeth",
+    "context": "teeth",
+    "source": "label"
+  },
+  {
+    "label": "cleanandjerk",
+    "entity": "jerk",
+    "context": "jerk",
+    "source": "label"
+  },
+  {
+    "label": "cliffdiving",
+    "entity": "diving",
+    "context": "diving",
+    "source": "label"
+  },
+  {
+    "label": "cricketshot",
+    "entity": "shot",
+    "context": "shot",
+    "source": "label"
+  },
+  {
+    "label": "cuttinginkitchen",
+    "entity": "kitchen",
+    "context": "kitchen",
+    "source": "label"
+  },
+  {
+    "label": "drumming",
+    "entity": "drumming",
+    "context": "drumming",
+    "source": "label"
+  },
+  {
+    "label": "fencing",
+    "entity": "fencing",
+    "context": "fencing",
+    "source": "label"
+  },
+  {
+    "label": "fieldhockeypenalty",
+    "entity": "penalty",
+    "context": "penalty",
+    "source": "label"
+  },
+  {
+    "label": "floorgymnastics",
+    "entity": "gymnastics",
+    "context": "gymnastics",
+    "source": "label"
+  },
+  {
+    "label": "frisbeecatch",
+    "entity": "catch",
+    "context": "catch",
+    "source": "label"
+  },
+  {
+    "label": "frontcrawl",
+    "entity": "crawl",
+    "context": "crawl",
+    "source": "label"
+  },
+  {
+    "label": "golfswing",
+    "entity": "swing",
+    "context": "swing",
+    "source": "label"
+  },
+  {
+    "label": "haircut",
+    "entity": "haircut",
+    "context": "haircut",
+    "source": "label"
+  },
+  {
+    "label": "hammering",
+    "entity": "hammering",
+    "context": "hammering",
+    "source": "label"
+  },
+  {
+    "label": "hammerthrow",
+    "entity": "throw",
+    "context": "throw",
+    "source": "label"
+  },
+  {
+    "label": "handstandpushups",
+    "entity": "pushups",
+    "context": "pushups",
+    "source": "label"
+  },
+  {
+    "label": "handstandwalking",
+    "entity": "walking",
+    "context": "walking",
+    "source": "label"
+  },
+  {
+    "label": "headmassage",
+    "entity": "massage",
+    "context": "massage",
+    "source": "label"
+  },
+  {
+    "label": "highjump",
+    "entity": "jump",
+    "context": "jump",
+    "source": "label"
+  },
+  {
+    "label": "horserace",
+    "entity": "horserace",
+    "context": "horserace",
+    "source": "label"
+  },
+  {
+    "label": "horseriding",
+    "entity": "riding",
+    "context": "riding",
+    "source": "label"
+  },
+  {
+    "label": "hulahoop",
+    "entity": "hoop",
+    "context": "hoop",
+    "source": "label"
+  },
+  {
+    "label": "icedancing",
+    "entity": "dancing",
+    "context": "dancing",
+    "source": "label"
+  },
+  {
+    "label": "jugglingballs",
+    "entity": "balls",
+    "context": "balls",
+    "source": "label"
+  },
+  {
+    "label": "jumpingjack",
+    "entity": "jack",
+    "context": "jack",
+    "source": "label"
+  },
+  {
+    "label": "jumprope",
+    "entity": "rope",
+    "context": "rope",
+    "source": "label"
+  },
+  {
+    "label": "kayaking",
+    "entity": "kayaking",
+    "context": "kayaking",
+    "source": "label"
+  },
+  {
+    "label": "knitting",
+    "entity": "knitting",
+    "context": "knitting",
+    "source": "label"
+  },
+  {
+    "label": "lunges",
+    "entity": "lunges",
+    "context": "lunges",
+    "source": "label"
+  },
+  {
+    "label": "militaryparade",
+    "entity": "parade",
+    "context": "parade",
+    "source": "label"
+  },
+  {
+    "label": "mixing",
+    "entity": "mixing",
+    "context": "mixing",
+    "source": "label"
+  },
+  {
+    "label": "moppingfloor",
+    "entity": "floor",
+    "context": "floor",
+    "source": "label"
+  },
+  {
+    "label": "nunchucks",
+    "entity": "s",
+    "context": "s",
+    "source": "label"
+  },
+  {
+    "label": "parallelbars",
+    "entity": "bars",
+    "context": "bars",
+    "source": "label"
+  },
+  {
+    "label": "pizzatossing",
+    "entity": "tossing",
+    "context": "tossing",
+    "source": "label"
+  },
+  {
+    "label": "playingcello",
+    "entity": "cello",
+    "context": "cello",
+    "source": "label"
+  },
+  {
+    "label": "playingdaf",
+    "entity": "f",
+    "context": "f",
+    "source": "label"
+  },
+  {
+    "label": "playingdhol",
+    "entity": "hol",
+    "context": "hol",
+    "source": "label"
+  },
+  {
+    "label": "playingflute",
+    "entity": "flute",
+    "context": "flute",
+    "source": "label"
+  },
+  {
+    "label": "playingguitar",
+    "entity": "guitar",
+    "context": "guitar",
+    "source": "label"
+  },
+  {
+    "label": "playingpiano",
+    "entity": "piano",
+    "context": "piano",
+    "source": "label"
+  },
+  {
+    "label": "playingsitar",
+    "entity": "sitar",
+    "context": "sitar",
+    "source": "label"
+  },
+  {
+    "label": "playingtabla",
+    "entity": "tabla",
+    "context": "tabla",
+    "source": "label"
+  },
+  {
+    "label": "playingviolin",
+    "entity": "violin",
+    "context": "violin",
+    "source": "label"
+  },
+  {
+    "label": "polevault",
+    "entity": "vault",
+    "context": "vault",
+    "source": "label"
+  },
+  {
+    "label": "pommelhorse",
+    "entity": "horse",
+    "context": "horse",
+    "source": "label"
+  },
+  {
+    "label": "pullups",
+    "entity": "ups",
+    "context": "ups",
+    "source": "label"
+  },
+  {
+    "label": "punch",
+    "entity": "punch",
+    "context": "punch",
+    "source": "label"
+  },
+  {
+    "label": "rafting",
+    "entity": "rafting",
+    "context": "rafting",
+    "source": "label"
+  },
+  {
+    "label": "rockclimbingindoor",
+    "entity": "climbing",
+    "context": "climbing",
+    "source": "label"
+  },
+  {
+    "label": "rowing",
+    "entity": "rowing",
+    "context": "rowing",
+    "source": "label"
+  },
+  {
+    "label": "salsaspin",
+    "entity": "spin",
+    "context": "spin",
+    "source": "label"
+  },
+  {
+    "label": "shavingbeard",
+    "entity": "beard",
+    "context": "beard",
+    "source": "label"
+  },
+  {
+    "label": "skateboarding",
+    "entity": "skateboarding",
+    "context": "skateboarding",
+    "source": "label"
+  },
+  {
+    "label": "skiing",
+    "entity": "skiing",
+    "context": "skiing",
+    "source": "label"
+  },
+  {
+    "label": "skijet",
+    "entity": "jet",
+    "context": "jet",
+    "source": "label"
+  },
+  {
+    "label": "skydiving",
+    "entity": "skydiving",
+    "context": "skydiving",
+    "source": "label"
+  },
+  {
+    "label": "soccerjuggling",
+    "entity": "juggling",
+    "context": "juggling",
+    "source": "label"
+  },
+  {
+    "label": "stillrings",
+    "entity": "rings",
+    "context": "rings",
+    "source": "label"
+  },
+  {
+    "label": "sumowrestling",
+    "entity": "wrestling",
+    "context": "wrestling",
+    "source": "label"
+  },
+  {
+    "label": "surfing",
+    "entity": "surfing",
+    "context": "surfing",
+    "source": "label"
+  },
+  {
+    "label": "tabletennisshot",
+    "entity": "tennis",
+    "context": "tennis",
+    "source": "label"
+  },
+  {
+    "label": "taichi",
+    "entity": "aichi",
+    "context": "aichi",
+    "source": "label"
+  },
+  {
+    "label": "throwdiscus",
+    "entity": "discus",
+    "context": "discus",
+    "source": "label"
+  },
+  {
+    "label": "trampolinejumping",
+    "entity": "jumping",
+    "context": "jumping",
+    "source": "label"
+  },
+  {
+    "label": "typing",
+    "entity": "typing",
+    "context": "typing",
+    "source": "label"
+  },
+  {
+    "label": "volleyballspiking",
+    "entity": "volleyball",
+    "context": "volleyball",
+    "source": "label"
+  },
+  {
+    "label": "walkingwithdog",
+    "entity": "dog",
+    "context": "dog",
+    "source": "label"
+  },
+  {
+    "label": "writingonboard",
+    "entity": "writing",
+    "context": "writing",
+    "source": "label"
+  },
+  {
+    "label": "yoyo",
+    "entity": "yoyo",
+    "context": "yoyo",
+    "source": "label"
+  },
+  {
+    "label": "cartwheel",
+    "entity": "cartwheel",
+    "context": "cartwheel",
+    "source": "label"
+  },
+  {
+    "label": "chew",
+    "entity": "chew",
+    "context": "chew",
+    "source": "label"
+  },
+  {
+    "label": "clap",
+    "entity": "clap",
+    "context": "clap",
+    "source": "label"
+  },
+  {
+    "label": "climb stairs",
+    "entity": "stairs",
+    "context": "stairs",
+    "source": "label"
+  },
+  {
+    "label": "climb",
+    "entity": "climb",
+    "context": "climb",
+    "source": "label"
+  },
+  {
+    "label": "dive",
+    "entity": "dive",
+    "context": "dive",
+    "source": "label"
+  },
+  {
+    "label": "draw sword",
+    "entity": "sword",
+    "context": "sword",
+    "source": "label"
+  },
+  {
+    "label": "dribble",
+    "entity": "dribble",
+    "context": "dribble",
+    "source": "label"
+  },
+  {
+    "label": "drink",
+    "entity": "drink",
+    "context": "drink",
+    "source": "label"
+  },
+  {
+    "label": "eat",
+    "entity": "eat",
+    "context": "eat",
+    "source": "label"
+  },
+  {
+    "label": "flic flac",
+    "entity": "flac",
+    "context": "flac",
+    "source": "label"
+  },
+  {
+    "label": "golf",
+    "entity": "golf",
+    "context": "golf",
+    "source": "label"
+  },
+  {
+    "label": "handstand",
+    "entity": "handstand",
+    "context": "handstand",
+    "source": "label"
+  },
+  {
+    "label": "hit",
+    "entity": "hit",
+    "context": "hit",
+    "source": "label"
+  },
+  {
+    "label": "hug",
+    "entity": "hug",
+    "context": "hug",
+    "source": "label"
+  },
+  {
+    "label": "kick ball",
+    "entity": "ball",
+    "context": "ball",
+    "source": "label"
+  },
+  {
+    "label": "kick",
+    "entity": "kick",
+    "context": "kick",
+    "source": "label"
+  },
+  {
+    "label": "kiss",
+    "entity": "kiss",
+    "context": "kiss",
+    "source": "label"
+  },
+  {
+    "label": "laugh",
+    "entity": "laugh",
+    "context": "laugh",
+    "source": "label"
+  },
+  {
+    "label": "pick",
+    "entity": "pick",
+    "context": "pick",
+    "source": "label"
+  },
+  {
+    "label": "pour",
+    "entity": "pour",
+    "context": "pour",
+    "source": "label"
+  },
+  {
+    "label": "pullup",
+    "entity": "pull",
+    "context": "pull",
+    "source": "label"
+  },
+  {
+    "label": "push",
+    "entity": "push",
+    "context": "push",
+    "source": "label"
+  },
+  {
+    "label": "pushup",
+    "entity": "pushup",
+    "context": "pushup",
+    "source": "label"
+  },
+  {
+    "label": "ride bike",
+    "entity": "bike",
+    "context": "bike",
+    "source": "label"
+  },
+  {
+    "label": "run",
+    "entity": "run",
+    "context": "run",
+    "source": "label"
+  },
+  {
+    "label": "shake hands",
+    "entity": "hands",
+    "context": "hands",
+    "source": "label"
+  },
+  {
+    "label": "shoot bow",
+    "entity": "bow",
+    "context": "bow",
+    "source": "label"
+  },
+  {
+    "label": "shoot gun",
+    "entity": "gun",
+    "context": "gun",
+    "source": "label"
+  },
+  {
+    "label": "smile",
+    "entity": "smile",
+    "context": "smile",
+    "source": "label"
+  },
+  {
+    "label": "smoke",
+    "entity": "smoke",
+    "context": "smoke",
+    "source": "label"
+  },
+  {
+    "label": "somersault",
+    "entity": "somersault",
+    "context": "somersault",
+    "source": "label"
+  },
+  {
+    "label": "stand",
+    "entity": "stand",
+    "context": "stand",
+    "source": "label"
+  },
+  {
+    "label": "swing baseball",
+    "entity": "baseball",
+    "context": "baseball",
+    "source": "label"
+  },
+  {
+    "label": "sword exercise",
+    "entity": "exercise",
+    "context": "exercise",
+    "source": "label"
+  },
+  {
+    "label": "talk",
+    "entity": "talk",
+    "context": "talk",
+    "source": "label"
+  },
+  {
+    "label": "turn",
+    "entity": "turn",
+    "context": "turn",
+    "source": "label"
+  },
+  {
+    "label": "walk",
+    "entity": "walk",
+    "context": "walk",
+    "source": "label"
+  },
+  {
+    "label": "wave",
+    "entity": "wave",
+    "context": "wave",
+    "source": "label"
+  },
+  {
+    "label": "body_part",
+    "entity": "head",
+    "context": "head",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "face",
+    "context": "face",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "eye",
+    "context": "eye",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "ear",
+    "context": "ear",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "nose",
+    "context": "nose",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "mouth",
+    "context": "mouth",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "lip",
+    "context": "lip",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "tooth",
+    "context": "tooth",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "tongue",
+    "context": "tongue",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "neck",
+    "context": "neck",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "shoulder",
+    "context": "shoulder",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "arm",
+    "context": "arm",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "elbow",
+    "context": "elbow",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "forearm",
+    "context": "forearm",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "wrist",
+    "context": "wrist",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "hand",
+    "context": "hand",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "palm",
+    "context": "palm",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "finger",
+    "context": "finger",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "thumb",
+    "context": "thumb",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "chest",
+    "context": "chest",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "back",
+    "context": "back",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "waist",
+    "context": "waist",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "hip",
+    "context": "hip",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "leg",
+    "context": "leg",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "thigh",
+    "context": "thigh",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "knee",
+    "context": "knee",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "shin",
+    "context": "shin",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "calf",
+    "context": "calf",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "ankle",
+    "context": "ankle",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "foot",
+    "context": "foot",
+    "source": "body_part"
+  },
+  {
+    "label": "body_part",
+    "entity": "toe",
+    "context": "toe",
+    "source": "body_part"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "aichi",
+    "context": "Nagoya Castle",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "aichi",
+    "context": "Atsuta Shrine",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "aichi",
+    "context": "Toyota Stadium",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "aichi",
+    "context": "Mikawa Bay",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "archery",
+    "context": "arrow",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "archery",
+    "context": "target",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "archery",
+    "context": "quiver",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "baby",
+    "context": "Crib",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "baby",
+    "context": "pacifier",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "baby",
+    "context": "diaper",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "baby",
+    "context": "baby blanket",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bag",
+    "context": "backpack",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bag",
+    "context": "suitcase",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bag",
+    "context": "purse",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bag",
+    "context": "luggage tag",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "ball",
+    "context": "tennis ball",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "ball",
+    "context": "bowling ball",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "balls",
+    "context": "golf ball",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bars",
+    "context": "counter",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bars",
+    "context": "beer tap",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bars",
+    "context": "stool",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bars",
+    "context": "cocktail shaker",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "baseball",
+    "context": "bat",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "baseball",
+    "context": "glove",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "baseball",
+    "context": "stadium",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "baseball",
+    "context": "scoreboard",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "basketball",
+    "context": "Backboard",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "basketball",
+    "context": "basketball hoop",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "basketball",
+    "context": "sneakers",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "beam",
+    "context": "steel beam",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "beam",
+    "context": "wooden joist",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "beam",
+    "context": "laser pointer",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "beam",
+    "context": "ceiling rafter",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "beard",
+    "context": "beard trimmer",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "beard",
+    "context": "beard oil",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "beard",
+    "context": "mustache",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "beard",
+    "context": "goatee",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bike",
+    "context": "helmet",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bike",
+    "context": "chain",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bike",
+    "context": "pedals",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bike",
+    "context": "saddle",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "biking",
+    "context": "bicycle",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "biking",
+    "context": "trail",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "billiards",
+    "context": "cue stick",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "billiards",
+    "context": "pool table",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "billiards",
+    "context": "billiard balls",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "billiards",
+    "context": "chalk cube",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bow",
+    "context": "bowstring",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bow",
+    "context": "archer's bow",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bow",
+    "context": "ribbon bow",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bow",
+    "context": "hair bow",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bowling",
+    "context": "lane",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "bowling",
+    "context": "pin",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "breaststroke",
+    "context": "swimming pool",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "breaststroke",
+    "context": "kickboard",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "breaststroke",
+    "context": "goggles",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "breaststroke",
+    "context": "stopwatch",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "candles",
+    "context": "wax",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "candles",
+    "context": "wicks",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "candles",
+    "context": "holders",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "candles",
+    "context": "matches",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "cartwheel",
+    "context": "gymnast",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "cartwheel",
+    "context": "mat",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "cartwheel",
+    "context": "equipment",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "catch",
+    "context": "fishing net",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "catch",
+    "context": "baseball glove",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "catch",
+    "context": "crab trap",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "catch",
+    "context": "butterfly net",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "cello",
+    "context": "strings",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "cello",
+    "context": "rosin",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "cello",
+    "context": "case",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "chew",
+    "context": "Gum",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "chew",
+    "context": "toothpick",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "chew",
+    "context": "cud",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "chew",
+    "context": "bubblegum",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "clap",
+    "context": "applause meter",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "clap",
+    "context": "clapboard",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "climb",
+    "context": "Mountain",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "climb",
+    "context": "ladder",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "climb",
+    "context": "staircase",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "climbing",
+    "context": "harness",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "climbing",
+    "context": "carabiner",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "climbing",
+    "context": "climbing wall",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "crawl",
+    "context": "spider",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "crawl",
+    "context": "worm",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "crawl",
+    "context": "tunnel",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dancing",
+    "context": "dance floor",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dancing",
+    "context": "ballet shoes",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dancing",
+    "context": "stage",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dancing",
+    "context": "mirror",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "discus",
+    "context": "Aquarium",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "discus",
+    "context": "fish tank",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "discus",
+    "context": "water heater",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "discus",
+    "context": "aquarium filter",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dive",
+    "context": "Scuba tank",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dive",
+    "context": "diving board",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dive",
+    "context": "submarine",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dive",
+    "context": "oxygen mask",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "diving",
+    "context": "wetsuit",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dog",
+    "context": "collar",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dog",
+    "context": "leash",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dog",
+    "context": "kennel",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dog",
+    "context": "bowl",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dribble",
+    "context": "soccer ball",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dribble",
+    "context": "water faucet",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dribble",
+    "context": "baby's chin",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "drink",
+    "context": "bottle",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "drink",
+    "context": "mug",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "drink",
+    "context": "straw",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "drink",
+    "context": "glass",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "drumming",
+    "context": "drums",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "drumming",
+    "context": "drumsticks",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "drumming",
+    "context": "drumhead",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "drumming",
+    "context": "cymbal",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "dunk",
+    "context": "basket",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "eat",
+    "context": "plate",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "eat",
+    "context": "spoon",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "eat",
+    "context": "sandwich",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "eat",
+    "context": "restaurant",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "exercise",
+    "context": "Treadmill",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "exercise",
+    "context": "dumbbells",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "exercise",
+    "context": "yoga mat",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "exercise",
+    "context": "exercise bike",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "f",
+    "context": "flag",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "f",
+    "context": "fountain",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "f",
+    "context": "factory",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "f",
+    "context": "fireplace",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "fencing",
+    "context": "post",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "fencing",
+    "context": "rail",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "fencing",
+    "context": "picket",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "fencing",
+    "context": "gate",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "flac",
+    "context": "audio file",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "flac",
+    "context": "music compressor",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "flac",
+    "context": "lossless encoder",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "flac",
+    "context": "digital soundtrack",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "floor",
+    "context": "tile",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "floor",
+    "context": "carpet",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "floor",
+    "context": "rug",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "flute",
+    "context": "mouthpiece",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "flute",
+    "context": "flute case",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "flute",
+    "context": "music stand",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "flute",
+    "context": "piccolo",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "golf",
+    "context": "club",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "golf",
+    "context": "green",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "golf",
+    "context": "tee",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "guitar",
+    "context": "fretboard",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "guitar",
+    "context": "guitar pick",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "guitar",
+    "context": "amplifier",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "guitar",
+    "context": "soundbox",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "gun",
+    "context": "Bullet",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "gun",
+    "context": "pistol",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "gun",
+    "context": "rifle",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "gun",
+    "context": "holster",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "gymnastics",
+    "context": "balance beam",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "gymnastics",
+    "context": "uneven bars",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "gymnastics",
+    "context": "vaulting table",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "gymnastics",
+    "context": "pommel horse",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hair",
+    "context": "brush",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hair",
+    "context": "comb",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hair",
+    "context": "scissors",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hair",
+    "context": "clipper",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "haircut",
+    "context": "barber chair",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "haircut",
+    "context": "hair clippers",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hammering",
+    "context": "nails",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hammering",
+    "context": "anvil",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hammering",
+    "context": "claw hammer",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hammering",
+    "context": "workbench",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hands",
+    "context": "gloves",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hands",
+    "context": "fingers",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hands",
+    "context": "wrists",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "handstand",
+    "context": "springboard",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hit",
+    "context": "drum",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hol",
+    "context": "hole",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hol",
+    "context": "holiday",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hol",
+    "context": "hollow",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hol",
+    "context": "holystone",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hoop",
+    "context": "hula hoop",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hoop",
+    "context": "embroidery hoop",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hoop",
+    "context": "jump hoop",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "horse",
+    "context": "stirrup",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "horse",
+    "context": "bridle",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "horse",
+    "context": "hoof",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "horserace",
+    "context": "Jockey",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "horserace",
+    "context": "racetrack",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "horserace",
+    "context": "stable",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "horserace",
+    "context": "trophy",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hug",
+    "context": "Arms",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hug",
+    "context": "shoulders",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "hug",
+    "context": "teddy bear",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jack",
+    "context": "jackhammer",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jack",
+    "context": "jackknife",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jack",
+    "context": "car jack",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jack",
+    "context": "jackboot",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jerk",
+    "context": "meat jerky",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jerk",
+    "context": "jerk bait",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jerk",
+    "context": "jerk line",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jerk",
+    "context": "punching bag",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jet",
+    "context": "jet engine",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jet",
+    "context": "jet ski",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jet",
+    "context": "jetway",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jet",
+    "context": "fighter jet",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "juggling",
+    "context": "clubs",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "juggling",
+    "context": "diabolo",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jump",
+    "context": "trampoline",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jump",
+    "context": "pogo stick",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jump",
+    "context": "skateboard",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "jump",
+    "context": "hurdle",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kayaking",
+    "context": "paddle",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kayaking",
+    "context": "kayak",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kayaking",
+    "context": "life jacket",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kayaking",
+    "context": "river",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kick",
+    "context": "football field",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kick",
+    "context": "martial arts mat",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kick",
+    "context": "kickstand",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kiss",
+    "context": "lips",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kiss",
+    "context": "cheek",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kiss",
+    "context": "forehead",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kitchen",
+    "context": "Blender",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kitchen",
+    "context": "toaster",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kitchen",
+    "context": "frying pan",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "kitchen",
+    "context": "kitchen sink",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "knitting",
+    "context": "yarn",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "knitting",
+    "context": "knitting needles",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "knitting",
+    "context": "scarf",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "knitting",
+    "context": "ball of twine",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "laugh",
+    "context": "Comedian",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "laugh",
+    "context": "joke book",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "laugh",
+    "context": "comedy club",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "laugh",
+    "context": "microphone",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "lipstick",
+    "context": "Lipstick tube",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "lipstick",
+    "context": "lipstick brush",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "lipstick",
+    "context": "makeup mirror",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "lipstick",
+    "context": "cosmetic bag",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "lunges",
+    "context": "Barbell",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "lunges",
+    "context": "exercise mat",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "lunges",
+    "context": "weights",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "makeup",
+    "context": "mascara",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "makeup",
+    "context": "eyeshadow palette",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "makeup",
+    "context": "foundation brush",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "marching",
+    "context": "marching band",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "marching",
+    "context": "parade route",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "marching",
+    "context": "baton",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "massage",
+    "context": "Massage table",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "massage",
+    "context": "massage oil",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "massage",
+    "context": "hot stones",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "massage",
+    "context": "aromatherapy candles",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "mixing",
+    "context": "mixing bowl",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "mixing",
+    "context": "mixer",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "parade",
+    "context": "Float",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "parade",
+    "context": "balloon",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "parade",
+    "context": "grandstand",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "penalty",
+    "context": "fine",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "penalty",
+    "context": "jail sentence",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "penalty",
+    "context": "suspension",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "penalty",
+    "context": "penalty box",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "piano",
+    "context": "keys",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "piano",
+    "context": "bench",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pick",
+    "context": "pickaxe",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pick",
+    "context": "cotton pick",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pick",
+    "context": "cherry picker",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pitch",
+    "context": "soccer field",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pitch",
+    "context": "tar",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pitch",
+    "context": "roof",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pour",
+    "context": "faucet",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pour",
+    "context": "jug",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pour",
+    "context": "pitcher",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "press",
+    "context": "Printing press",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "press",
+    "context": "wine press",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "press",
+    "context": "oil press",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "press",
+    "context": "press conference",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pull",
+    "context": "door handle",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pull",
+    "context": "tugboat",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pull",
+    "context": "lever",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "punch",
+    "context": "fist",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "punch",
+    "context": "boxing glove",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "punch",
+    "context": "punch bowl",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "push",
+    "context": "door",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "push",
+    "context": "button",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "push",
+    "context": "cart",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "pushup",
+    "context": "bar",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "rafting",
+    "context": "raft",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "rings",
+    "context": "wedding ring",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "rings",
+    "context": "diamond solitaire",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "rings",
+    "context": "championship ring",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "rings",
+    "context": "signet ring",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "rope",
+    "context": "Lasso",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "rope",
+    "context": "pulley",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "rope",
+    "context": "anchor",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "rope",
+    "context": "knot",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "rowing",
+    "context": "oar",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "rowing",
+    "context": "boat",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "rowing",
+    "context": "dock",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "run",
+    "context": "track",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "run",
+    "context": "marathon",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "s",
+    "context": "sandstone",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "s",
+    "context": "satellite",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "shot",
+    "context": "vaccine",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "shot",
+    "context": "photograph",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "shot",
+    "context": "whiskey glass",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "sitar",
+    "context": "frets",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "sitar",
+    "context": "tuning pegs",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "skateboarding",
+    "context": "ramp",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "skateboarding",
+    "context": "wheels",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "skiing",
+    "context": "Ski lift",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "skiing",
+    "context": "ski boots",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "skiing",
+    "context": "mountain resort",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "skiing",
+    "context": "ski poles",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "skydiving",
+    "context": "Parachute",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "skydiving",
+    "context": "altimeter",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "smile",
+    "context": "dimples",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "smoke",
+    "context": "Chimney",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "smoke",
+    "context": "cigarette",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "smoke",
+    "context": "pipe",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "spin",
+    "context": "Top",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "spin",
+    "context": "gyroscope",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "spin",
+    "context": "washing machine",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "spin",
+    "context": "merry-go-round",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "squats",
+    "context": "weight plate",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "squats",
+    "context": "squat rack",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "stairs",
+    "context": "step",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "stairs",
+    "context": "railing",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "stairs",
+    "context": "landing",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "stairs",
+    "context": "banister",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "stand",
+    "context": "Microphone stand",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "stand",
+    "context": "ladder stand",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "stand",
+    "context": "ticket stand",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "stand",
+    "context": "display stand",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "surfing",
+    "context": "surfboard",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "surfing",
+    "context": "beach",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "surfing",
+    "context": "buoy",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "swing",
+    "context": "Porch swing",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "swing",
+    "context": "playground",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "swing",
+    "context": "pendulum",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "swing",
+    "context": "seesaw",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "sword",
+    "context": "blade",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "sword",
+    "context": "scabbard",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "sword",
+    "context": "hilt",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "sword",
+    "context": "crossguard",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "tabla",
+    "context": "dayan",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "tabla",
+    "context": "baya",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "tabla",
+    "context": "tabla set",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "talk",
+    "context": "lecture hall",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "talk",
+    "context": "conversation",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "talk",
+    "context": "conference room",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "teeth",
+    "context": "Molar",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "teeth",
+    "context": "dental implant",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "teeth",
+    "context": "toothbrush",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "teeth",
+    "context": "braces",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "tennis",
+    "context": "Racket",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "tennis",
+    "context": "court",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "tennis",
+    "context": "net",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "throw",
+    "context": "stone",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "throw",
+    "context": "javelin",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "tossing",
+    "context": "coin",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "tossing",
+    "context": "salad",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "tossing",
+    "context": "pancake",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "turn",
+    "context": "turntable",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "turn",
+    "context": "turnstile",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "turn",
+    "context": "turnaround",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "turn",
+    "context": "turnkey",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "typing",
+    "context": "keyboard",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "typing",
+    "context": "mouse",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "typing",
+    "context": "desk",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "typing",
+    "context": "computer",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "ups",
+    "context": "elevator",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "ups",
+    "context": "delivery truck",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "ups",
+    "context": "package",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "vault",
+    "context": "bank vault",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "vault",
+    "context": "wine cellar",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "vault",
+    "context": "safety deposit box",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "vault",
+    "context": "treasure chest",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "volleyball",
+    "context": "spike block",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "walk",
+    "context": "path",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "walk",
+    "context": "sidewalk",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "walk",
+    "context": "bridge",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "walking",
+    "context": "hiking boots",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "walking",
+    "context": "trail sign",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "wave",
+    "context": "ocean wave",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "wave",
+    "context": "tsunami buoy",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "wave",
+    "context": "beach rock",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "wrestling",
+    "context": "ring",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "wrestling",
+    "context": "belt",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "writing",
+    "context": "Pen",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "writing",
+    "context": "notebook",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "writing",
+    "context": "typewriter",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "writing",
+    "context": "manuscript",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "yoyo",
+    "context": "string",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "yoyo",
+    "context": "axle",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "yoyo",
+    "context": "bearing",
+    "source": "llm_expansion"
+  },
+  {
+    "label": "llm_expansion",
+    "entity": "yoyo",
+    "context": "handle",
+    "source": "llm_expansion"
+  }
+]

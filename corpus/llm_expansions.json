@@ -1,0 +1,764 @@
+{
+  "aichi": [
+    "Nagoya Castle",
+    "Atsuta Shrine",
+    "Toyota Stadium",
+    "Mikawa Bay"
+  ],
+  "archery": [
+    "bow",
+    "arrow",
+    "target",
+    "quiver"
+  ],
+  "baby": [
+    "Crib",
+    "pacifier",
+    "diaper",
+    "baby blanket"
+  ],
+  "bag": [
+    "backpack",
+    "suitcase",
+    "purse",
+    "luggage tag"
+  ],
+  "ball": [
+    "Basketball",
+    "baseball",
+    "tennis ball",
+    "bowling ball"
+  ],
+  "balls": [
+    "Basketball",
+    "tennis ball",
+    "bowling ball",
+    "golf ball"
+  ],
+  "bars": [
+    "counter",
+    "beer tap",
+    "stool",
+    "cocktail shaker"
+  ],
+  "baseball": [
+    "bat",
+    "glove",
+    "stadium",
+    "scoreboard"
+  ],
+  "basketball": [
+    "Backboard",
+    "basketball hoop",
+    "sneakers",
+    "scoreboard"
+  ],
+  "beam": [
+    "steel beam",
+    "wooden joist",
+    "laser pointer",
+    "ceiling rafter"
+  ],
+  "beard": [
+    "beard trimmer",
+    "beard oil",
+    "mustache",
+    "goatee"
+  ],
+  "bike": [
+    "helmet",
+    "chain",
+    "pedals",
+    "saddle"
+  ],
+  "biking": [
+    "helmet",
+    "bicycle",
+    "trail",
+    "pedals"
+  ],
+  "billiards": [
+    "cue stick",
+    "pool table",
+    "billiard balls",
+    "chalk cube"
+  ],
+  "bow": [
+    "bowstring",
+    "archer's bow",
+    "ribbon bow",
+    "hair bow"
+  ],
+  "bowling": [
+    "ball",
+    "lane",
+    "pin",
+    "scoreboard"
+  ],
+  "breaststroke": [
+    "swimming pool",
+    "kickboard",
+    "goggles",
+    "stopwatch"
+  ],
+  "candles": [
+    "wax",
+    "wicks",
+    "holders",
+    "matches"
+  ],
+  "cartwheel": [
+    "gymnast",
+    "mat",
+    "floor",
+    "equipment"
+  ],
+  "catch": [
+    "fishing net",
+    "baseball glove",
+    "crab trap",
+    "butterfly net"
+  ],
+  "cello": [
+    "bow",
+    "strings",
+    "rosin",
+    "case"
+  ],
+  "chew": [
+    "Gum",
+    "toothpick",
+    "cud",
+    "bubblegum"
+  ],
+  "clap": [
+    "hands",
+    "applause meter",
+    "clapboard",
+    "palm"
+  ],
+  "climb": [
+    "Mountain",
+    "ladder",
+    "staircase",
+    "rope"
+  ],
+  "climbing": [
+    "Rope",
+    "harness",
+    "carabiner",
+    "climbing wall"
+  ],
+  "crawl": [
+    "Baby",
+    "spider",
+    "worm",
+    "tunnel"
+  ],
+  "dancing": [
+    "dance floor",
+    "ballet shoes",
+    "stage",
+    "mirror"
+  ],
+  "discus": [
+    "Aquarium",
+    "fish tank",
+    "water heater",
+    "aquarium filter"
+  ],
+  "dive": [
+    "Scuba tank",
+    "diving board",
+    "submarine",
+    "oxygen mask"
+  ],
+  "diving": [
+    "scuba tank",
+    "diving board",
+    "oxygen mask",
+    "wetsuit"
+  ],
+  "dog": [
+    "collar",
+    "leash",
+    "kennel",
+    "bowl"
+  ],
+  "dribble": [
+    "Basketball",
+    "soccer ball",
+    "water faucet",
+    "baby's chin"
+  ],
+  "drink": [
+    "bottle",
+    "mug",
+    "straw",
+    "glass"
+  ],
+  "drumming": [
+    "drums",
+    "drumsticks",
+    "drumhead",
+    "cymbal"
+  ],
+  "dunk": [
+    "basket",
+    "hoop",
+    "ball",
+    "backboard"
+  ],
+  "eat": [
+    "plate",
+    "spoon",
+    "sandwich",
+    "restaurant"
+  ],
+  "exercise": [
+    "Treadmill",
+    "dumbbells",
+    "yoga mat",
+    "exercise bike"
+  ],
+  "f": [
+    "flag",
+    "fountain",
+    "factory",
+    "fireplace"
+  ],
+  "fencing": [
+    "post",
+    "rail",
+    "picket",
+    "gate"
+  ],
+  "flac": [
+    "audio file",
+    "music compressor",
+    "lossless encoder",
+    "digital soundtrack"
+  ],
+  "floor": [
+    "tile",
+    "carpet",
+    "rug",
+    "mat"
+  ],
+  "flute": [
+    "mouthpiece",
+    "flute case",
+    "music stand",
+    "piccolo"
+  ],
+  "golf": [
+    "ball",
+    "club",
+    "green",
+    "tee"
+  ],
+  "guitar": [
+    "fretboard",
+    "guitar pick",
+    "amplifier",
+    "soundbox"
+  ],
+  "gun": [
+    "Bullet",
+    "pistol",
+    "rifle",
+    "holster"
+  ],
+  "gymnastics": [
+    "balance beam",
+    "uneven bars",
+    "vaulting table",
+    "pommel horse"
+  ],
+  "hair": [
+    "brush",
+    "comb",
+    "scissors",
+    "clipper"
+  ],
+  "haircut": [
+    "Scissors",
+    "barber chair",
+    "hair clippers",
+    "comb"
+  ],
+  "hammering": [
+    "nails",
+    "anvil",
+    "claw hammer",
+    "workbench"
+  ],
+  "hands": [
+    "gloves",
+    "fingers",
+    "wrists",
+    "palm"
+  ],
+  "handstand": [
+    "mat",
+    "gymnast",
+    "balance beam",
+    "springboard"
+  ],
+  "hit": [
+    "Bat",
+    "ball",
+    "drum",
+    "target"
+  ],
+  "hol": [
+    "hole",
+    "holiday",
+    "hollow",
+    "holystone"
+  ],
+  "hoop": [
+    "basketball hoop",
+    "hula hoop",
+    "embroidery hoop",
+    "jump hoop"
+  ],
+  "horse": [
+    "saddle",
+    "stirrup",
+    "bridle",
+    "hoof"
+  ],
+  "horserace": [
+    "Jockey",
+    "racetrack",
+    "stable",
+    "trophy"
+  ],
+  "hug": [
+    "Arms",
+    "shoulders",
+    "chest",
+    "teddy bear"
+  ],
+  "jack": [
+    "jackhammer",
+    "jackknife",
+    "car jack",
+    "jackboot"
+  ],
+  "jerk": [
+    "meat jerky",
+    "jerk bait",
+    "jerk line",
+    "punching bag"
+  ],
+  "jet": [
+    "jet engine",
+    "jet ski",
+    "jetway",
+    "fighter jet"
+  ],
+  "juggling": [
+    "balls",
+    "clubs",
+    "rings",
+    "diabolo"
+  ],
+  "jump": [
+    "trampoline",
+    "pogo stick",
+    "skateboard",
+    "hurdle"
+  ],
+  "jumping": [
+    "trampoline",
+    "pogo stick",
+    "hurdle",
+    "springboard"
+  ],
+  "kayaking": [
+    "paddle",
+    "kayak",
+    "life jacket",
+    "river"
+  ],
+  "kick": [
+    "Soccer ball",
+    "football field",
+    "martial arts mat",
+    "kickstand"
+  ],
+  "kiss": [
+    "lips",
+    "cheek",
+    "forehead",
+    "mouth"
+  ],
+  "kitchen": [
+    "Blender",
+    "toaster",
+    "frying pan",
+    "kitchen sink"
+  ],
+  "knitting": [
+    "yarn",
+    "knitting needles",
+    "scarf",
+    "ball of twine"
+  ],
+  "laugh": [
+    "Comedian",
+    "joke book",
+    "comedy club",
+    "microphone"
+  ],
+  "lipstick": [
+    "Lipstick tube",
+    "lipstick brush",
+    "makeup mirror",
+    "cosmetic bag"
+  ],
+  "lunges": [
+    "Barbell",
+    "dumbbells",
+    "exercise mat",
+    "weights"
+  ],
+  "makeup": [
+    "Lipstick",
+    "mascara",
+    "eyeshadow palette",
+    "foundation brush"
+  ],
+  "marching": [
+    "Drum",
+    "marching band",
+    "parade route",
+    "baton"
+  ],
+  "massage": [
+    "Massage table",
+    "massage oil",
+    "hot stones",
+    "aromatherapy candles"
+  ],
+  "mixing": [
+    "blender",
+    "mixing bowl",
+    "spoon",
+    "mixer"
+  ],
+  "parade": [
+    "Float",
+    "marching band",
+    "balloon",
+    "grandstand"
+  ],
+  "penalty": [
+    "fine",
+    "jail sentence",
+    "suspension",
+    "penalty box"
+  ],
+  "piano": [
+    "keys",
+    "pedals",
+    "bench",
+    "music stand"
+  ],
+  "pick": [
+    "pickaxe",
+    "guitar pick",
+    "cotton pick",
+    "cherry picker"
+  ],
+  "pitch": [
+    "Baseball",
+    "soccer field",
+    "tar",
+    "roof"
+  ],
+  "pour": [
+    "bottle",
+    "faucet",
+    "jug",
+    "pitcher"
+  ],
+  "press": [
+    "Printing press",
+    "wine press",
+    "oil press",
+    "press conference"
+  ],
+  "pull": [
+    "rope",
+    "door handle",
+    "tugboat",
+    "lever"
+  ],
+  "punch": [
+    "fist",
+    "boxing glove",
+    "punch bowl",
+    "punching bag"
+  ],
+  "push": [
+    "door",
+    "button",
+    "cart",
+    "lever"
+  ],
+  "pushup": [
+    "mat",
+    "floor",
+    "bench",
+    "bar"
+  ],
+  "pushups": [
+    "mat",
+    "floor",
+    "bench",
+    "bar"
+  ],
+  "rafting": [
+    "life jacket",
+    "paddle",
+    "raft",
+    "helmet"
+  ],
+  "riding": [
+    "saddle",
+    "bicycle",
+    "helmet",
+    "stirrup"
+  ],
+  "rings": [
+    "wedding ring",
+    "diamond solitaire",
+    "championship ring",
+    "signet ring"
+  ],
+  "rope": [
+    "Lasso",
+    "pulley",
+    "anchor",
+    "knot"
+  ],
+  "rowing": [
+    "oar",
+    "boat",
+    "dock",
+    "life jacket"
+  ],
+  "run": [
+    "track",
+    "marathon",
+    "sneakers",
+    "treadmill"
+  ],
+  "s": [
+    "sandstone",
+    "satellite",
+    "stadium",
+    "submarine"
+  ],
+  "shot": [
+    "Bullet",
+    "vaccine",
+    "photograph",
+    "whiskey glass"
+  ],
+  "sitar": [
+    "strings",
+    "frets",
+    "tuning pegs",
+    "soundbox"
+  ],
+  "skateboarding": [
+    "skateboard",
+    "helmet",
+    "ramp",
+    "wheels"
+  ],
+  "skiing": [
+    "Ski lift",
+    "ski boots",
+    "mountain resort",
+    "ski poles"
+  ],
+  "skydiving": [
+    "Parachute",
+    "helmet",
+    "goggles",
+    "altimeter"
+  ],
+  "smile": [
+    "teeth",
+    "lips",
+    "dimples",
+    "face"
+  ],
+  "smoke": [
+    "Chimney",
+    "cigarette",
+    "pipe",
+    "fireplace"
+  ],
+  "somersault": [
+    "Gymnast",
+    "trampoline",
+    "mat",
+    "springboard"
+  ],
+  "spin": [
+    "Top",
+    "gyroscope",
+    "washing machine",
+    "merry-go-round"
+  ],
+  "squats": [
+    "barbell",
+    "weight plate",
+    "squat rack",
+    "exercise mat"
+  ],
+  "stairs": [
+    "step",
+    "railing",
+    "landing",
+    "banister"
+  ],
+  "stand": [
+    "Microphone stand",
+    "ladder stand",
+    "ticket stand",
+    "display stand"
+  ],
+  "surfing": [
+    "surfboard",
+    "wetsuit",
+    "beach",
+    "buoy"
+  ],
+  "swing": [
+    "Porch swing",
+    "playground",
+    "pendulum",
+    "seesaw"
+  ],
+  "sword": [
+    "blade",
+    "scabbard",
+    "hilt",
+    "crossguard"
+  ],
+  "tabla": [
+    "dayan",
+    "baya",
+    "tabla set",
+    "drumhead"
+  ],
+  "talk": [
+    "microphone",
+    "lecture hall",
+    "conversation",
+    "conference room"
+  ],
+  "teeth": [
+    "Molar",
+    "dental implant",
+    "toothbrush",
+    "braces"
+  ],
+  "tennis": [
+    "Racket",
+    "tennis ball",
+    "court",
+    "net"
+  ],
+  "throw": [
+    "ball",
+    "stone",
+    "javelin",
+    "discus"
+  ],
+  "tossing": [
+    "coin",
+    "ball",
+    "salad",
+    "pancake"
+  ],
+  "turn": [
+    "turntable",
+    "turnstile",
+    "turnaround",
+    "turnkey"
+  ],
+  "typing": [
+    "keyboard",
+    "mouse",
+    "desk",
+    "computer"
+  ],
+  "ups": [
+    "elevator",
+    "delivery truck",
+    "package",
+    "staircase"
+  ],
+  "vault": [
+    "bank vault",
+    "wine cellar",
+    "safety deposit box",
+    "treasure chest"
+  ],
+  "violin": [
+    "bow",
+    "strings",
+    "case",
+    "rosin"
+  ],
+  "volleyball": [
+    "Court",
+    "net",
+    "ball",
+    "spike block"
+  ],
+  "walk": [
+    "path",
+    "sidewalk",
+    "bridge",
+    "trail"
+  ],
+  "walking": [
+    "path",
+    "sidewalk",
+    "hiking boots",
+    "trail sign"
+  ],
+  "wave": [
+    "ocean wave",
+    "surfboard",
+    "tsunami buoy",
+    "beach rock"
+  ],
+  "wrestling": [
+    "Mat",
+    "ring",
+    "belt",
+    "trophy"
+  ],
+  "writing": [
+    "Pen",
+    "notebook",
+    "typewriter",
+    "manuscript"
+  ],
+  "yoyo": [
+    "string",
+    "axle",
+    "bearing",
+    "handle"
+  ]
+}
